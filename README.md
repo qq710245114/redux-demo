@@ -1,3 +1,3 @@
 # redux-demo
-##练习redux
+## 练习redux
 
